@@ -10,13 +10,15 @@ A console application that takes a word and returns the Scrabble score for that 
 
 ## Specs
 
-   ```
-** Take word and change it to diff case 
-   ```
-** Split up the word int letters
-   ```
-** Match the word to a number in dictionary
-   ```
+```
+Take word and change it to diff case 
+```
+```
+Split up the word int letters
+```
+```
+Match the word to a number in dictionary
+```
 
 
 ## Setup/Installation Requirements
